@@ -1,3 +1,13 @@
+<!-- adado:brand:v1 -->
+<p align="center"><img src="https://raw.githubusercontent.com/diginoz-com-au/adado-media/master/.adado/adado-logo.png" width="96" alt="AdaDo logo" /></p>
+
+<h3 align="center">AdaDo Fork</h3>
+<p align="center"><em>Part of the AdaDo App Store — every app in the AdaDo ecosystem runs as a private, per-user isolated instance.</em></p>
+<p align="center"><a href="https://github.com/jellyfin/jellyfin">Upstream: jellyfin/jellyfin</a></p>
+
+---
+<!-- /adado:brand:v1 -->
+
 <h1 align="center">Jellyfin</h1>
 <h3 align="center">The Free Software Media System</h3>
 
